@@ -1,0 +1,29 @@
+html {
+  font-size: 55%;
+}
+
+body {
+  background-color: hsl(0, 0%, 100%);
+}
+
+main {
+  width: 100%;
+  margin: 0;
+  border-radius: none;
+  padding: 0;
+}
+
+.main-wrap {
+  padding: 2.5rem;
+  padding-top: 1rem;
+}
+.recipe-img > img {
+  width: 100%;
+  border-radius: 0;
+}
+
+.attribution{
+    max-width: 90%;
+    text-align: center;
+    margin: 2rem auto;
+}
