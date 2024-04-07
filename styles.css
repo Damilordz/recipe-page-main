@@ -20,8 +20,7 @@ body {
 
 main {
   width: 50%;
-  margin: 5rem auto;
-  margin-bottom: 2rem;
+  margin: 10rem auto;
   min-height: 100vh;
   background-color: hsl(0, 0%, 100%);
   border-radius: 1.5rem;
