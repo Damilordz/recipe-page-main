@@ -21,7 +21,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Live Site URL: [Recipe page solution](https://your-live-site-url.com)
+- Live Site URL: [Recipe page ](https://damilordz.github.io/recipe-page-main/)
 
 ## My process
 
@@ -39,4 +39,4 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 - Frontend Mentor - [Damilordz](https://www.frontendmentor.io/profile/Damilordz)
 - Twitter - [Damilordz](https://www.twitter.com/Damilordz)
-- LinkedIn - [Damilola] (https://www.linkedin.com/in/adebowaleemmanuel)
+- LinkedIn - [Damilola](https://www.linkedin.com/in/adebowaleemmanuel)
